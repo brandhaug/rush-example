@@ -1,0 +1,13 @@
+{
+  "name": "@rush-example/ui-lib",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "@rush-example/js-lib": "~1.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@rush-example/js-lib",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "main": "src/index.js"
+}
